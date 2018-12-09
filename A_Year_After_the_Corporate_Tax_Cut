@@ -1,0 +1,71 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# A Year After the Corporate Tax Cut\n",
+    "\n",
+    "A year ago there were a substantial number of economists who were assuring us that the Trump-McConnell-Ryan corporate tax cut was not just a giveaway to rich stockholders but would provide a sustained and substantial boost to investment in America that would boost productivity by:\n",
+    "\n",
+    "* [Barro, Boskin, Cogan, Holtz-Eakin, Hubbard, Lindsey, Rosen, Shultz, and Taylor](https://tinyurl.com/20181209b-delong) said \"3% to 4%... if achieved over a decade, the... increase in... annual... growth would be about 0.4%...\"\n",
+    "\n",
+    "* Hubbard, Lindsay, Holtz-Eakin, and a fourth (who is either Lazear or Mankiw) said, [according to Sen Susan Collins (R-ME)](https://tinyurl.com/20181209c-delong), by enough to raise tax collections enough to keep the deficit from going up by much.\n",
+    "\n",
+    "* [Miller, Calomiris, Bhagwati, and a hundred-odd others](https://www.bradford-delong.com/2017/11/i-am-embarrassed-to-belong-to-a-profession-that-includes-these-100-clowns.html) said by enough to raise tax collections enough to keep the deficit from going up at all—and boost annual growth by 0.4%.\n",
+    "\n",
+    "* [Barro](https://tinyurl.com/20181209e-delong), endorsed by [Boskin](https://tinyurl.com/20181209f-delong), doubling down and claiming not 4% but 7% as the long-run boost to productivity and prosperity—and boost annual growth by 0.4%.\n",
+    "\n",
+    "And [Kevin Hassett](https://tinyurl.com/20181209d-delong) and [Greg Mankiw](https://tinyurl.com/20181209a-delong) told us that these productivity gains would primarily boost wages not profits, because the relevant model was one in which foreigners would flood America with investment.\n",
+    "\n",
+    "These were primarily long-run predictions, and, of course, the long-run is not here yet. But the long-run only arrives when the succession of short-runs cooperates, and these economists nailed their long-run prediction to the short run by claiming we would see higher investment in America strong enough to boost growth by 0.4%/year—that is 80 billion dollars per year—more than we would have seen otherwise. And to gain that boost to productivity from higher investment spending would require roughly an extra 800 billion in higher annual investment—a jump from its current 17.5 percent to about 21.5 percent  of GDP. \n",
+    "\n",
+    "We do not know what growth this year and next year would have been otherwise. But we can look at investment in America: Has it jumped up by 800 billion dollars this year, and is it projected to stay at the same jumped-up level next year? The answer is: [no](https://fred.stlouisfed.org/graph/?graph_id=516170&rn=316).\n",
+    "\n",
+    "<img style=\"float:right;\" src=\"https://delong.typepad.com/.a/6a00e551f080038834022ad3c5c8a7200b-pi\" alt=\"Gross Private Domestic Investment Nominal Potential Gross Domestic Product FRED St Louis Fed\" title=\"Gross_Private_Domestic_Investment_Nominal_Potential_Gross_Domestic_Product___FRED___St__Louis_Fed.png\" border=\"0\" width=\"400\" />\n",
+    "\n",
+    "And we can look at investment by foreigners in America—although we already know that it could not have financed any material part of an 800 billion surge in annual investment in America because there was no such surge in investment. Indeed, there has been no such surge in investment in America.\n",
+    "\n",
+    "Back when all these 100-odd economists from Barro through Taylor were setting out their claims, these drew sharp dissents from not just economists associated with former Democratic administrations but from scorekeepers like the Tax Policy Center whose entire model of operations rests on pleasing not politicians and donors but rather making the best forecasts they can. The disagreements in turn drew an anguished cry from reporter Binyamin Applebaum:\n",
+    "\n",
+    ">I am not sure there is a defensible case for the discipline of macroeconomics if they can’t at least agree on the ground rules for evaluating tax policy. What does it mean to produce the signatures of 100 economists in favor of a given proposition when another 100 will sign their names to the opposite statement? How does Harvard, for example, justify granting tenure to people who purport to work in the same discipline and publicly condemn each other as charlatans? How are ordinary people, let alone members of Congress, supposed to figure out which tenured professors are the serious economists?...\n",
+    "\n",
+    "I think we can now answer Applebaum's question. The 100-odd economists from Boskin to Taylor made analyses and offered predictions. These analyses have proven wrong. These predications have proven false. To anybody engaged in an intellectual discipline, it is very interesting when you get something wrong—it is a sign that you have something to learn. And so, in every intellectual discipline, you try to learn it: you study it, analyze it, debate about it, in the hope of making yourself smarter—if, that is, you see yourself as a thinker.\n",
+    "\n",
+    "There has been none of that.\n",
+    "\n",
+    "There has been silence.\n",
+    "\n",
+    "There has been silence because the absence of the promised 800 billion surge in investment in America this year continued through next year and beyond is not something anybody is surprised to see. A model in which investment in America can easily and rapidly jump up (or down) as foreigners flood or reverse large-scale investment in America is not a useful model. Individuals do not substantially boost or curb their savings as tax changes boost or reduce after-tax profit rates. Yes, a higher profit rate makes savings more profitable. But a higher profit rate also makes the income from your past savings higher, and so reduces the need to save. The two roughly balance out. And those writing opens and releasing studies boosting last year's Trump-McConnell-Ryan corporate tax cut knew this, or ought to have known this. And they see no need to study this year why their forecasts made last year were wrong because they already knew.\n",
+    "\n",
+    "So I say to Binyamin Applebaum, and to other reporters who wrote up—much less critically then they should have—what the corporate tax cut-boosting economists from Barro to Taylor and company were saying last year: remember: \"fool me once, shame on you; fool me twice, shame on me\".\n",
+    "\n",
+    "&nbsp;\n",
+    "\n",
+    "----\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
